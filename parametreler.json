@@ -1,0 +1,31 @@
+{
+  "surum": 1,
+  "guncelleme_tarihi": "2026-07-13",
+  "aciklama": "Konya Teknokent 5746 Muafiyet Simülasyonu — merkezi yıl parametreleri. Yeni yıl eklerken 'yillar' altına yeni blok kopyalayın; değerleri MUTLAKA resmi kaynaktan (GİB tebliği / Resmî Gazete / SGK genelgesi) doğrulayın.",
+  "yillar": {
+    "2026": {
+      "asgari_ucret_brut": 33030.00,
+      "gv_dilimleri": [
+        [0, 0.15],
+        [190000, 0.20],
+        [400000, 0.27],
+        [1500000, 0.35],
+        [5300000, 0.40]
+      ],
+      "sgk_isci_orani": 0.14,
+      "issizlik_isci_orani": 0.01,
+      "damga_orani": 0.00759,
+      "sgk_isveren_orani": 0.1675,
+      "issizlik_isveren_orani": 0.02,
+      "sgk_tavani": 297270.00,
+      "tesvik_oranlari": {
+        "DOKTORA": 0.95,
+        "YÜKSEK LİSANS": 0.90,
+        "DİĞER": 0.80
+      },
+      "damga_istisna_orani": 1.00,
+      "sgk_isveren_destek_orani": 0.50,
+      "kv_orani": 0.25
+    }
+  }
+}
